@@ -1,0 +1,497 @@
+.burgerwebsite{
+  display: flex;
+  flex-direction: column;
+}
+.header{
+    background-image: url("images/background\ burger.png");
+    width: 100%;
+    height: 590px;
+}
+.logohead{
+    padding: 30px;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1)20%, rgba(0, 0, 0, 0));
+}
+.logo{
+    margin-left: 40px;
+}
+.gradient {
+    display: flex;
+    color: white;
+    align-items: center;
+}
+.gradient li{
+    display: inline;
+    align-items: center;
+    margin-left: 50px;
+}
+.navigation{
+    margin-left: 400px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.bodyhead{
+    color: white;
+    margin: 40px auto auto 60px;
+    width: 35%;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.bodyhead h1{
+    font-size: 50px;
+    margin-top: -50px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.bodyhead p{
+    font-size: 1.5rem;
+    font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.buy{
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    background-color: #f64b3c;
+    font-size: 1rem;
+}
+.chef{
+  width: 100%;
+  height: 590px;
+  background-color: #f6eedf;
+}
+.our{
+  padding: 20px;
+  margin: auto 20% auto 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f64b3c;
+}
+.our h1{
+  font-family: "Archivo", sans-serif;
+  font-size: 50px;
+}
+.our p{
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  margin-top: -25px;
+}
+.ourchef{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.poster{
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.describe{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Archivo", sans-serif;
+  color: #f64b3c;
+}
+.describe p{
+  margin-top: -10px;
+}
+.ginger{
+  margin-top: -450px;
+  margin-left: 200px;
+}
+.burgerimage{
+  margin-left: 85%;
+  margin-top: -120px;
+}
+.fries{
+  margin-top: -30px;
+}
+.capsicum{
+  margin-left: 90%;
+}
+.leaf{
+  margin-left: 30%;
+}
+.mashroom{
+  margin-left: 60%;
+  margin-top: -100px;
+}
+.fororder{
+  background-color: #f64b3c;
+  height: 590px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.leftimage img{
+  height: 350px;
+  width: 350px;
+  border-radius: 350px;
+}
+.rightcontent{
+  margin-top: -40px;
+  font-family: "Archivo", sans-serif;
+  width: 30%;
+  margin-left: 10%;
+}
+.rightcontent h1{
+  font-size: 60px;
+}
+.rightcontent p{
+  font-family: "Nunito", sans-serif;
+  font-size: 1.2rem;
+}
+.ordernow{
+  height: 40px;
+  width: 200px;
+  border-radius: 30px;
+  border: none;
+  margin-top: 20px;
+  color: #f64b3c;
+}
+.section4{
+  background-color: #f6eedf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 590px;
+}
+.leftcontent{
+  width: 30%;
+  margin-right: 18%;
+  color: #f64b3c;
+  font-family: "Archivo", sans-serif;
+}
+.rightimage img{
+  height: 350px;
+  width: 350px;
+  border-radius: 350px;
+}
+.leftcontent h1{
+  font-size: 60px;
+}
+.leftcontent p{
+  font-family: "Nunito", sans-serif;
+  font-size: 1.2rem;
+}
+.redbutton{
+  height: 40px;
+  width: 200px;
+  border-radius: 30px;
+  border: none;
+  margin-top: 20px;
+  color: #f6eedf;
+  background-color: #f64b3c;
+}
+.imagespart{
+  display: flex;
+}
+.cap2{
+  margin-left: -1120px;
+  margin-top: 100px;
+}
+.burger2{
+  margin-left: 400px;
+  margin-top: 20px;
+}
+.leaf2{
+  margin-left: 420px;
+  margin-top: 50px;
+}
+.gin2{
+  margin-left:-1000px ;
+  margin-top: 480px;
+}
+.mash2{
+  margin-left: 300px;
+  margin-top: 420px;
+}
+.fry2{
+  margin-top: 440px;
+  margin-left: 400px;
+}
+.section5{
+ height: 590px;
+ background-color: #f64b3c;
+ color: #ffffff; 
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.circles{
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+.statistics{
+  display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ height: 200px;
+ width: 70%;
+ margin-top: -30px;
+}
+.statistics h1{
+  font-family: "Archivo", sans-serif;
+  font-size: 50px;
+  margin-top: -20px;
+}
+.statistics p{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  margin-top: -15px;
+}
+.one{
+  height: 200px;
+  width: 200px;
+  border-radius: 200%;
+  border: 5px solid #f6eedf;
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.one h1{
+  font-family: "Archivo", sans-serif;
+  font-size: 5rem;
+}
+.one p{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  margin-top: -60px;
+}
+.section6{
+    background-image: url("images/section.png");
+    background-size: cover;
+    background-size: 100% 590px;
+    background-position: center center;
+    height: 590px; 
+}
+.popular{
+  padding: 20px;
+  font-family: "Archivo";
+  color: #f64b3c;
+  font-weight: bolder;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
+.deals{
+  display: flex;
+  color: #f64b3c;
+  justify-content: space-evenly;
+}
+.packages{
+  width: 20%;
+  margin-left: 10px;  
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.packages h3{
+  font-family: "Archivo";
+  font-size: bold;
+}
+.packages p{
+  font-family: "Montserrat";
+  margin-top: -20px;
+  font-size: 1.3rem;
+}
+.section7{
+  background-image: url("images/section7.png");
+  background-size: 100% 590px;
+  height: 590px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.quote{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.quote p{
+  font-size: 2rem;
+  margin-top: -30px;
+  font-family: "Montserrat", sans-serif;
+}
+.quote h1{
+  font-family: "Archivo";
+  font-size: 50px;
+}
+.section8{
+  background-image: url("images/section9.png");
+  background-size: 100% 590px;
+  height: 590px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dont{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dont h1{
+  font-family: "Archivo", sans-serif;
+  font-size: 4rem;
+  color: #f64b3c;
+  margin-top: -30px;
+}
+.dont p{
+  font-family: "Nunito", sans-serif;
+  font-size: 1.4rem;
+  color: #f64b3c;
+  margin-top: -20px;
+}
+.form{
+  display: flex;
+  margin-top: 40px;
+}
+.email{
+  height: 20px;
+  width: 350px;
+  border: none;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  padding: 10px;
+}
+.subscribe{
+  height: 40px;
+  width: 150px;
+  border: none;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  background-color: #f64b3c;
+  color: #ffffff;
+  font-family: "Nunito", sans-serif;
+  font-size: 1rem;
+}
+.footer{
+  background-color: #222222;
+  color: #ffffff;
+  height: 590px;
+  display: flex;
+  align-items: center;
+}
+.title{
+  width: 30%;
+  margin-left: 100px;
+}
+.title h3{
+  font-family: "Archivo", sans-serif;
+  font-size: 30px;
+}
+.title p{
+  font-family: "Nunito", sans-serif;
+  font-size: 1.2rem;
+}
+.footable{
+  font-family: "Nunito", sans-serif;
+  font-size: 1rem;
+  margin-left: 140px;
+}
+.socials{
+  display: flex;
+}
+.insta{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  color: #222222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+.headtable{
+  font-family: "Archivo", sans-serif;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+@media only screen and (max-width:768px){
+  .bodyhead h1{
+    font-size:40px;
+  }
+  .bodyhead p{
+    font-size: 1rem;
+  }
+  .ginger{
+    display: none;
+  }
+  .burgerimage{
+    display: none;
+  }
+  .fries{
+    display: none;
+  }
+  .mashroom{
+    display: none;
+  }
+  .leaf{
+    display: none;
+  }
+  .capsicum{
+    display: none;
+  }
+  .our{
+    width: 80%;
+    margin-left: 2px;
+  }
+  .burger2{
+    display: none;
+  }
+  .fry2{
+    display: none;
+  }
+  .gin2{
+    display: none;
+  }
+  .leaf2{
+    display: none;
+  }
+  .mash2{
+    display: none;
+  }
+  .cap2{
+    display: none;
+  }
+  .packages{
+    font-size: 0.7rem;
+  }
+  .redbutton{
+    width: 120px;
+  }
+  .quote p{
+    font-size: 1.4rem;
+    width: 600px;
+    margin-top: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
